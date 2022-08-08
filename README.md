@@ -3,7 +3,7 @@ AutoML Decathlon starter kit
 
 # This is a forked repo from the AutoML starter kit
 
-The data is available at /mnt/data/scratch/data/auto_ml_data
+The data is available at /mnt/data/scratch/data/auto_ml_data. See original download instructions at the [ORIGINAL REPO](https://github.com/cxxz/automl_decathlon_starter_kit)
 
 
 
