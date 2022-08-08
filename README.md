@@ -1,14 +1,11 @@
 AutoML Decathlon starter kit
 ======================================
 
-## Download public datasets
-The 10 developoment datasets were hosted on Google cloud storage. First, you need to install the
-[gcloud CLI](https://cloud.google.com/sdk/docs/install). Then run the following command line to download the datasets,
-is:
-```bash
-gsutil cp -r gs://decathlon_public_datasets/dev_public <path_public_data>
-```
-Note that this can take some time, depending on your connection.
+# This is a forked repo from the AutoML starter kit
+
+The data is available at /mnt/data/scratch/data/auto_ml_data
+
+
 
 ## Local development and testing
 To make your own submission, you need to modify the
